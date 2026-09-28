@@ -1,0 +1,122 @@
+
+`businesslogic.BLFacadeImplementation#isAdmin(Ljava/lang/String;Ljava/lang/String;)Ldomain/Admin;C
+7src\main\java\businesslogic\BLFacadeImplementation.java“ “("startingBlock*Ê
+startingBlock
+“ “(1É
+Ä
+
+— —(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*5
+
+__unknown_file (
+
+logjava.lang.StringY
+W
+
+“  “(#
+logjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6Ñ
+Å
+
+— —(
+%7"
+__annotate*)
+
+__unknown_file (
+	WebMethod*6
+
+__unknown_file (
+
+passjava.lang.StringZ
+X
+
+“, “(0
+passjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%7*
+1*˚
+1
+” ”(á
+Ñ
+
+” ”(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager|z
+
+” ”(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()á
+Ñ
+
+‘ ‘(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManagerœÃ
+
+‘ ‘(.
+%3domain.Admin"QdataAccess.DataAccess#isAdmin(Ljava/lang/String;Ljava/lang/String;)Ldomain/Admin;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*5
+
+__unknown_file (
+
+logjava.lang.String*6
+
+__unknown_file (
+
+passjava.lang.String2-isAdmin(Ljava/lang/String;Ljava/lang/String;)Y
+W
+
+‘ ‘(/
+adomain.Admin"__id*0
+
+__unknown_file (
+
+%3domain.Adminá
+Ñ
+
+’ ’(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager~|
+
+’ ’(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"!
+
+÷ ÷(
+
+adomain.Admin:%
+
+“ “($
+logjava.lang.String:&
+
+“% “(0
+passjava.lang.StringB(&
+$businesslogic.BLFacadeImplementationH

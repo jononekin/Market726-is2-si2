@@ -122,8 +122,12 @@ public class CreateSaleGUI extends JFrame {
 		jLabelError.setForeground(Color.red);
 		
 	    status=Utils.getStatus();
-		for(String s:status) statusOptions.addElement(s);
-
+		if(status==null) {
+			System.out.println("erabilida en, es edo eus");
+		}else {
+			for(String s:status) statusOptions.addElement(s);
+		}
+		
 		this.getContentPane().add(jLabelMsg, null);
 		this.getContentPane().add(jLabelError, null);
 

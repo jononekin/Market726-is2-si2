@@ -1,0 +1,90 @@
+
+SdataAccess.DataAccess#isLogged(Ljava/lang/String;Ljava/lang/String;)Ldomain/Seller;4
+(src\main\java\dataAccess\DataAccess.java— —(%"startingBlock*%
+2
+÷ ÷("
+
+÷ ÷(1
+""*ä
+3
+“$ “(&Y
+W
+
+“$ “(&
+%0"__id*=
+
+__unknown_file (!*
+dataAccess.DataAccess"
+dbM
+K
+
+“	 “(x
+query
+TypedQuery"__id*"
+
+__unknown_file (
+""?
+=
+
+’ ’(,
+%1"__not*"
+
+__unknown_file (
+""*
+1
+2*Ê
+startingBlock
+—% —(>É
+Ä
+
+— —(
+%2"
+__annotate*)
+
+__unknown_file (
+	WebMethod*5
+
+__unknown_file (
+
+logjava.lang.StringY
+W
+
+—- —(0
+logjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2Ñ
+Å
+
+— —(
+%3"
+__annotate*)
+
+__unknown_file (
+	WebMethod*6
+
+__unknown_file (
+
+passjava.lang.StringZ
+X
+
+—9 —(=
+passjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%3*
+3*%
+1
+◊ ◊("
+
+◊ ◊(
+"":%
+
+—& —(1
+logjava.lang.String:&
+
+—2 —(=
+passjava.lang.StringB
+dataAccess.DataAccessH

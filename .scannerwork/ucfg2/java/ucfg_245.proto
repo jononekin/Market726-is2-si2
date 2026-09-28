@@ -1,0 +1,153 @@
+
+ibusinesslogic.BLFacadeImplementation#reportSale(Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/String;)ZC
+7src\main\java\businesslogic\BLFacadeImplementation.java§ §("startingBlock*ç
+startingBlock
+§ §(Q‰
+†
+
+¦ ¦(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*;
+
+__unknown_file (
+
+	userEmailjava.lang.String_
+]
+
+§% §(.
+	userEmailjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6‹
+ˆ
+
+¦ ¦(
+%7"
+__annotate*)
+
+__unknown_file (
+	WebMethod*=
+
+__unknown_file (!
+
+
+saleNumberjava.lang.Integera
+_
+
+§7 §(A
+
+saleNumberjava.lang.Integer"__annotation*"
+
+__unknown_file (
+
+%7†
+ƒ
+
+¦ ¦(
+%8"
+__annotate*)
+
+__unknown_file (
+	WebMethod*8
+
+__unknown_file (
+
+reasonjava.lang.String\
+Z
+
+§J §(P
+reasonjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%8*
+1*Ñ	
+1
+¨ ¨(‡
+„
+
+¨ ¨(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager|z
+
+¨ ¨(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+© ©(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager°­
+
+© ©(G
+%3boolean"ZdataAccess.DataAccess#reportSale(Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/String;)Z*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*;
+
+__unknown_file (
+
+	userEmailjava.lang.String*=
+
+__unknown_file (!
+
+
+saleNumberjava.lang.Integer*8
+
+__unknown_file (
+
+reasonjava.lang.String2CreportSale(Ljava/lang/String;Ljava/lang/Integer;Ljava/lang/String;)Q
+O
+
+© ©(H
+resboolean"__id*+
+
+__unknown_file (
+
+%3boolean‡
+„
+
+ª ª(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager~|
+
+ª ª(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"
+
+« «(
+
+resboolean:+
+
+§ §(/
+	userEmailjava.lang.String:-
+
+§/ §(B
+
+saleNumberjava.lang.Integer:(
+
+§C §(P
+reasonjava.lang.StringB(&
+$businesslogic.BLFacadeImplementationHX

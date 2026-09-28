@@ -1,0 +1,99 @@
+
+Rbusinesslogic.BLFacadeImplementation#getBasket(Ljava/lang/String;)Ljava/util/List;C
+7src\main\java\businesslogic\BLFacadeImplementation.javaê ê("startingBlock*‘
+startingBlock
+ê ê(2Š
+‡
+
+é é(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*<
+
+__unknown_file ( 
+
+
+buyerEmailjava.lang.String`
+^
+
+ê' ê(1
+
+buyerEmailjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6*
+1*´
+1
+ë ë(‡
+„
+
+ë ë(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager|z
+
+ë ë(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+ì ì( 
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager‚ÿ
+
+ì ì(6
+%3java.util.List"CdataAccess.DataAccess#getBasket(Ljava/lang/String;)Ljava/util/List;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*<
+
+__unknown_file ( 
+
+
+buyerEmailjava.lang.String2getBasket(Ljava/lang/String;)]
+[
+
+ì ì(7
+ajava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.List‡
+„
+
+í í(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager~|
+
+í í(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"#
+
+î î(
+
+ajava.util.List:,
+
+ê  ê(1
+
+buyerEmailjava.lang.StringB(&
+$businesslogic.BLFacadeImplementationH

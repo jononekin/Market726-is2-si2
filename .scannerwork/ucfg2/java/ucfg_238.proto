@@ -1,0 +1,106 @@
+
+bbusinesslogic.BLFacadeImplementation#isLogged(Ljava/lang/String;Ljava/lang/String;)Ldomain/Seller;A
+7src\main\java\businesslogic\BLFacadeImplementation.javar r(%"startingBlock*⁄
+startingBlockr% r(>Ä
+~
+r r(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*5
+
+__unknown_file (
+
+logjava.lang.StringW
+U
+r- r(0
+logjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6Å
+
+r r(
+%7"
+__annotate*)
+
+__unknown_file (
+	WebMethod*6
+
+__unknown_file (
+
+passjava.lang.StringX
+V
+r9 r(=
+passjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%7*
+1*
+1s s(Ö
+Ç
+s s(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManagerzx
+s s(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()Ö
+Ç
+t t(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager—Œ
+t t((
+%3domain.Seller"SdataAccess.DataAccess#isLogged(Ljava/lang/String;Ljava/lang/String;)Ldomain/Seller;*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*5
+
+__unknown_file (
+
+logjava.lang.String*6
+
+__unknown_file (
+
+passjava.lang.String2.isLogged(Ljava/lang/String;Ljava/lang/String;)Y
+W
+t t()
+sdomain.Seller"__id*1
+
+__unknown_file (
+
+%3domain.SellerÖ
+Ç
+u u(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager|z
+u u(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()" 
+v v(
+
+sdomain.Seller:#
+r& r(1
+logjava.lang.String:$
+r2 r(=
+passjava.lang.StringB(&
+$businesslogic.BLFacadeImplementationH

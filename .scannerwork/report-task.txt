@@ -1,0 +1,7 @@
+organization=pablo-martinez-anorga
+projectKey=pablo-martinez-anorga_market26
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.107671
+dashboardUrl=https://sonarcloud.io/dashboard?id=pablo-martinez-anorga_market26
+ceTaskId=AaDIflV_yJoTgPKH5eAl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AaDIflV_yJoTgPKH5eAl

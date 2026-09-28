@@ -1,0 +1,76 @@
+
+domain.Sale#hashCode()I*
+src\main\java\domain\Sale.java… …("4*`
+2
+†< †(=H
+F
+
+†< †(=	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*É
+3
+†$ †(.j
+h
+
+†$ †(.
+%5java.lang.Integer"__id*;
+
+__unknown_file (*
+domain.Sale"
+
+saleNumber{y
+
+†$ †(9	
+%3int"java.lang.Integer#hashCode()I*5
+
+__unknown_file (
+
+%5java.lang.Integer2
+hashCode()H
+F
+
+†$ †(9	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*Š
+4
+† †(j
+h
+
+† †(
+%0java.lang.Integer"__id*;
+
+__unknown_file (*
+domain.Sale"
+
+saleNumber}
+{
+
+† †(!
+%1boolean"	__compare*
+
+† †(
+!=*'
+
+† †(
+
+%0java.lang.Integer*
+
+† †(!
+""*
+2
+3**
+1
+† †(>"
+
+† †(>
+	
+%2intB
+domain.SaleHX

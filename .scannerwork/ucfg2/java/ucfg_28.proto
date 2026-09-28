@@ -1,0 +1,42 @@
+
+&__sonar_lambda_3$dataAccess.DataAccess4
+(src\main\java\dataAccess\DataAccess.java†) †(K"1*ñ
+1
+†. †(/‘Ž
+
+†. †(7
+%7java.lang.Integer"*domain.Salaketa#getId()Ljava/lang/Integer;*2
+
+__unknown_file (
+
+sdomain.Salaketa2getId()˜•
+
+†; †(K
+%8java.lang.Integer"*domain.Salaketa#getId()Ljava/lang/Integer;*9
+
+__unknown_file (
+
+salaketadomain.Salaketa2getId()‘
+Ž
+
+†. †(K
+%9boolean"	__compare*
+
+†8 †(:
+==*'
+
+†. †(7
+
+%7java.lang.Integer*'
+
+†; †(K
+
+%8java.lang.Integer"
+
+†. †(K
+
+%9boolean:"
+
+†) †(*
+sdomain.SalaketaB
+dataAccess.DataAccess

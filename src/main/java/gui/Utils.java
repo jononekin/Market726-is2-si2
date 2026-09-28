@@ -17,6 +17,9 @@ public class Utils {
 	}
 	public static String getStatus(int t) {
 		ArrayList<String> status=getStatus();
+		if (status == null) {
+			return "Ez dago hizjuntz hori";
+		}
 		return status.get(t);
 	}
 }

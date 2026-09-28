@@ -106,7 +106,7 @@ public class BLFacadeImplementation  implements BLFacade {
         try {
             return ImageIO.read(image);
         } catch (IOException e) {
-            e.printStackTrace();
+        	System.out.print("errorea irudia deskargatzen: "+ e.getMessage());
         }
         return null;
     }

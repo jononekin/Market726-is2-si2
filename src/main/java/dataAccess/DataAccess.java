@@ -1,4 +1,4 @@
-package dataAccess;
+	package dataAccess;
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
@@ -137,8 +137,7 @@ public class DataAccess {
             System.out.println("hasta aqui");
             return sale;
         } catch (NullPointerException e) {
-            e.printStackTrace();
-            db.getTransaction().commit();
+        	java.util.logging.Logger.getLogger(DataAccess.class.getName()).log(java.util.logging.Level.SEVERE, "NullPointerException createSale metodoan", e);            db.getTransaction().commit();
             return null;
         }
     }
@@ -267,8 +266,8 @@ public class DataAccess {
             db.persist(mugimendu);
             // --------------------------------
 
-            db.merge(sale);
-            db.merge(buyer);
+            Sale managedsale =db.merge(sale);
+            Seller managedSeller=db.merge(buyer);
             
             db.getTransaction().commit();
             return true;
@@ -387,7 +386,7 @@ public class DataAccess {
                 return false;
             }
             
-            sale.getSalaketak().removeIf(s -> s.getId() == salaketa.getId());
+            sale.getSalaketak().removeIf(s -> s.getId().equals(salaketa.getId()));
 
             Salaketa s = db.find(Salaketa.class, salaketa.getId());
             if (s != null) {
@@ -700,7 +699,7 @@ public class DataAccess {
             eskaera.addEskaintza(eskaintza);
             
             db.persist(eskaintza);
-            db.merge(eskaera);
+            eskaera = db.merge(eskaera);
             
             db.getTransaction().commit();
             return true;

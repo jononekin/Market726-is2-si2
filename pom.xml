@@ -45,13 +45,13 @@
 	</repositories>
 
 	<properties>
-		<maven.compiler.target>1.8</maven.compiler.target>
-		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+		<maven.compiler.source>17</maven.compiler.source>
 
-		<sonar.organization>jononekin</sonar.organization>
+		<sonar.organization>pablo-martinez-anorga</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_monopoly-euskara</sonar.projectKey>
-		<sonar.login>69f0b261f26fe8390be129e064c0bf84e7a4c3b1</sonar.login>
+		<sonar.projectKey>pablo-martinez-anorga_market26</sonar.projectKey>
+		<sonar.login>b6b41338566262724db5b1922c1838c4e0d000d9</sonar.login>
 	</properties>
 
 	<dependencies>

@@ -1,0 +1,153 @@
+
+Zbusinesslogic.BLFacadeImplementation#resolveReport(Ljava/lang/Integer;Ldomain/Salaketa;Z)ZC
+7src\main\java\businesslogic\BLFacadeImplementation.java· ·( "startingBlock*Æ
+startingBlock
+·  ·(S‹
+ˆ
+
+¶ ¶(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*=
+
+__unknown_file (!
+
+
+saleNumberjava.lang.Integera
+_
+
+·) ·(3
+
+saleNumberjava.lang.Integer"__annotation*"
+
+__unknown_file (
+
+%6
+
+
+¶ ¶(
+%7"
+__annotate*)
+
+__unknown_file (
+	WebMethod*4
+
+__unknown_file (
+
+saldomain.SalaketaX
+V
+
+·> ·(A
+saldomain.Salaketa"__annotation*"
+
+__unknown_file (
+
+%7}
+{
+
+¶ ¶(
+%8"
+__annotate*)
+
+__unknown_file (
+	WebMethod*0
+
+__unknown_file (
+
+aceptarbooleanT
+R
+
+·K ·(R
+aceptarboolean"__annotation*"
+
+__unknown_file (
+
+%8*
+1*¤	
+1
+¸ ¸(‡
+„
+
+¸ ¸(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager|z
+
+¸ ¸(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()‡
+„
+
+¹ ¹(
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManagerƒ€
+
+¹ ¹(E
+%3boolean"KdataAccess.DataAccess#resolveReport(Ljava/lang/Integer;Ldomain/Salaketa;Z)Z*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*=
+
+__unknown_file (!
+
+
+saleNumberjava.lang.Integer*4
+
+__unknown_file (
+
+saldomain.Salaketa*0
+
+__unknown_file (
+
+aceptarboolean24resolveReport(Ljava/lang/Integer;Ldomain/Salaketa;Z)Q
+O
+
+¹ ¹(F
+repboolean"__id*+
+
+__unknown_file (
+
+%3boolean‡
+„
+
+º º(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager~|
+
+º º(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()"
+
+» »(
+
+repboolean:-
+
+·! ·(4
+
+saleNumberjava.lang.Integer:$
+
+·5 ·(B
+saldomain.Salaketa: 
+
+·C ·(R
+aceptarbooleanB(&
+$businesslogic.BLFacadeImplementationHX

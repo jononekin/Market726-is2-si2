@@ -1,0 +1,79 @@
+
+Vbusinesslogic.BLFacadeImplementation#downloadImage(Ljava/lang/String;)Ljava/awt/Image;A
+7src\main\java\businesslogic\BLFacadeImplementation.javah h()"startingBlock*?
+3k k('"0
+k k('$
+"
+%4java.awt.image.BufferedImage*â
+startingBlockh) h(;á
+Ñ
+h h(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*;
+
+__unknown_file (
+
+	imageNamejava.lang.String]
+[
+h1 h(:
+	imageNamejava.lang.String"__annotation*"
+
+__unknown_file (
+
+%6*
+5*˛
+4k k(Á
+‰
+k k(&"
+%4java.awt.image.BufferedImage"Hjavax.imageio.ImageIO#read(Ljava/io/File;)Ljava/awt/image/BufferedImage;*5
+
+__unknown_file ("
+javax.imageio.ImageIO*3
+
+__unknown_file (
+
+imagejava.io.File*
+3*µ
+5i i(&f
+d
+i i(&
+%0java.lang.String"__id*:
+
+__unknown_file (
+src/main/resources/images/Å
+
+i i(0
+%1java.lang.String"__concat*$
+i i(&
+
+%0java.lang.String*+
+i' i(0
+
+	imageNamejava.lang.String.,
+i i(
+%2java.io.File"java.io.File•
+¢
+i i(1
+%3"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%2java.io.File*4
+
+__unknown_file (
+
+%1java.lang.String[
+Y
+i i(2
+imagejava.io.File"__id*0
+
+__unknown_file (
+
+%2java.io.File*
+4:)
+h* h(:
+	imageNamejava.lang.StringB(&
+$businesslogic.BLFacadeImplementationH

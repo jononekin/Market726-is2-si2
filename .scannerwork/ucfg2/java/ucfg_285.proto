@@ -1,0 +1,53 @@
+
+gui.MainGUI#%field_initializer(
+src\main\java\gui\MainGUI.java ("1*Ö
+1
+__unknown_file (W
+U
+ ($
+gui.MainGUI"
+jContentPane"__id*"
+
+__unknown_file (
+""W
+U
+ (%
+gui.MainGUI"
+jButtonLogin"__id*"
+
+__unknown_file (
+""Z
+X
+ (("
+gui.MainGUI"
+jButtonRegister"__id*"
+
+__unknown_file (
+""^
+\
+ (,&
+gui.MainGUI"
+jButtonQueryQueries"__id*"
+
+__unknown_file (
+""DB
+7- 7(8
+%0javax.swing.ButtonGroup"javax.swing.ButtonGroupr
+p
+7) 7(:
+%1"!javax.swing.ButtonGroup#<init>()V*;
+
+__unknown_file (
+
+%0javax.swing.ButtonGroupo
+m
+7 7(;
+gui.MainGUI"
+buttonGroup"__id*;
+
+__unknown_file (
+
+%0javax.swing.ButtonGroup"
+ ¡(
+implicit returnB
+gui.MainGUI

@@ -1,0 +1,89 @@
+
++gui.MainGUIErregistratua#%field_initializer5
++src\main\java\gui\MainGUIErregistratua.java (!"1*¨
+
+1
+__unknown_file (d
+b
+ (',
+gui.MainGUIErregistratua"
+jContentPane"__id*"
+
+__unknown_file (
+""j
+h
+ (.2
+gui.MainGUIErregistratua"
+jButtonCreateQuery"__id*"
+
+__unknown_file (
+""k
+i
+ (/3
+gui.MainGUIErregistratua"
+jButtonQueryQueries"__id*"
+
+__unknown_file (
+""l
+j
+ (04
+gui.MainGUIErregistratua"
+jButtonNireErosketak"__id*"
+
+__unknown_file (
+""e
+c
+ ()-
+gui.MainGUIErregistratua"
+jButtonWallet"__id*"
+
+__unknown_file (
+""h
+f
+ (,0
+gui.MainGUIErregistratua"
+btnCreateEskaera"__id*"
+
+__unknown_file (
+""g
+e
+   (+/
+gui.MainGUIErregistratua"
+btnViewEskaerak"__id*"
+
+__unknown_file (
+""g
+e
+! !(+/
+gui.MainGUIErregistratua"
+btnNireEskaerak"__id*"
+
+__unknown_file (
+""a
+_
+# #(%)
+gui.MainGUIErregistratua"
+	btnBasket"__id*"
+
+__unknown_file (
+""DB
+30 3(;
+%0javax.swing.ButtonGroup"javax.swing.ButtonGroupr
+p
+3, 3(=
+%1"!javax.swing.ButtonGroup#<init>()V*;
+
+__unknown_file (
+
+%0javax.swing.ButtonGroup|
+z
+3 3(>+
+gui.MainGUIErregistratua"
+buttonGroup"__id*;
+
+__unknown_file (
+
+%0javax.swing.ButtonGroup"
+ Ô(
+implicit returnB
+gui.MainGUIErregistratua

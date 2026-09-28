@@ -1,0 +1,122 @@
+
+]businesslogic.BLFacadeImplementation#acceptEskaintza(Ljava/lang/Integer;Ljava/lang/Integer;)ZC
+7src\main\java\businesslogic\BLFacadeImplementation.javaë ë(""startingBlock*Ñ
+startingBlock
+ë" ë(Jä
+á
+
+ê ê(
+%6"
+__annotate*)
+
+__unknown_file (
+	WebMethod*<
+
+__unknown_file ( 
+
+	eskaeraIdjava.lang.Integer`
+^
+
+ë+ ë(4
+	eskaeraIdjava.lang.Integer"__annotation*"
+
+__unknown_file (
+
+%6å
+â
+
+ê ê(
+%7"
+__annotate*)
+
+__unknown_file (
+	WebMethod*>
+
+__unknown_file ("
+ 
+eskaintzaIdjava.lang.Integerb
+`
+
+ë> ë(I 
+eskaintzaIdjava.lang.Integer"__annotation*"
+
+__unknown_file (
+
+%7*
+1*â	
+1
+í í(á
+Ñ
+
+í í(
+%0dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager|z
+
+í í(
+
+%1void"dataAccess.DataAccess#open()V*9
+
+__unknown_file (
+
+%0dataAccess.DataAccess2open()á
+Ñ
+
+ì ì(#
+%2dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager‡›
+
+ì ì(K
+%3boolean"NdataAccess.DataAccess#acceptEskaintza(Ljava/lang/Integer;Ljava/lang/Integer;)Z*9
+
+__unknown_file (
+
+%2dataAccess.DataAccess*<
+
+__unknown_file ( 
+
+	eskaeraIdjava.lang.Integer*>
+
+__unknown_file ("
+ 
+eskaintzaIdjava.lang.Integer27acceptEskaintza(Ljava/lang/Integer;Ljava/lang/Integer;)U
+S
+
+ì ì(L
+successboolean"__id*+
+
+__unknown_file (
+
+%3booleaná
+Ñ
+
+î î(
+%4dataAccess.DataAccess"__id*S
+
+__unknown_file (7*5&
+$businesslogic.BLFacadeImplementation"
+	dbManager~|
+
+î î(
+
+%5void"dataAccess.DataAccess#close()V*9
+
+__unknown_file (
+
+%4dataAccess.DataAccess2close()""
+
+ï ï(
+
+successboolean:,
+
+ë# ë(5
+	eskaeraIdjava.lang.Integer:.
+
+ë6 ë(I 
+eskaintzaIdjava.lang.IntegerB(&
+$businesslogic.BLFacadeImplementationHX
