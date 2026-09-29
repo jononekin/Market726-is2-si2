@@ -51,7 +51,7 @@
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>jononekin_marketsep29</sonar.projectKey>
-		<sonar.login>787d7b08758abc8dfd88cd716ec35f5b51e9ef27</sonar.login>
+		<sonar.token>787d7b08758abc8dfd88cd716ec35f5b51e9ef27</sonar.token>
 	</properties>
 
 	<dependencies>
